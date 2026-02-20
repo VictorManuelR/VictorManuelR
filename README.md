@@ -4,7 +4,7 @@ Soy un apasionado de los datos y la tecnología, actualmente enfocado en mi rol 
 
 También me divierte mucho experimentar con IA, integrando agentes inteligentes en los flujos de trabajo para que los sistemas sean cada vez más autónomos y eficientes.
 
-No todo en mi vida son pipelines y bases de datos. Me gusta mucho la edición de video e imagen, y le dedico tiempo a la creación de dibujos digitales. Esta faceta creativa me ayuda a mantener una perspectiva fresca y liberar el estrés de la semana.
+No todo en mi vida son pipelines y bases de datos. Me gusta mucho la edición de video e imagen, y le dedico tiempo a la creación de dibujos digitales. Esta faceta me ayuda a mantener una perspectiva fresca y liberar el estrés de la semana.
 
 ---
 
