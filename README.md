@@ -1,4 +1,4 @@
-# ¡Hola! Soy Victor Manuel Ramírez
+# ¡Hola!
 
 Soy un apasionado de los datos y la tecnología, actualmente enfocado en mi rol como Data Engineer y Python Developer. Mi perfil tiene una mezcla interesante ya que vengo de la Ingeniería Física, pero eso me dio una base analítica muy fuerte para resolver problemas complejos de una forma lógica y estructurada.
 
@@ -18,7 +18,7 @@ No todo en mi vida son pipelines y bases de datos. Me gusta mucho la edición de
 
 ### Mi caja de herramientas
 
-* **Lenguajes:** Python, SQL, C/C++ y R.
+* **Lenguajes:** Python, SQL, y R.
 * **Cloud & Big Data:** Azure Data Factory, Databricks, -.
 * **DevOps:** Git, Docker, -.
 
